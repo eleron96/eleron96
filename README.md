@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gamsakhurdiya" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/gamsakhurdiya?trk=profile-badge">Niko Gamsakhurdiya</a>
-
-</div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gamsakhurdiya" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/gamsakhurdiya?trk=profile-badge">Niko Gamsakhurdiya</a></div>
+              
               
 <div>  
   <img src="https://www.codewars.com/users/eleron96/badges/small" title="CODEWARS" alt="CODEWARS"/>&nbsp;
