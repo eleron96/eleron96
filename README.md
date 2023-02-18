@@ -3,7 +3,6 @@
 I'm a BIM professional with experience as Head of BIM Department. 
 Currently, I'm expanding my skillset by learning Python and seeking collaborations with individuals who program for Revit or Rhino. 
 I'm open to assistance in my Python journey and am always happy to talk about BIM. 
-If you're interested in connecting, feel free to reach me at Eleron96@gmail.com. 
 
 Fun fact about me: My hobby has become my work!
              
