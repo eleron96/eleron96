@@ -1,3 +1,38 @@
+# Hello! I'm [Niko Gamsakhurdiya]
+
+👨‍💻 I work as a [Head of BIM Department]
+
+🌆 From [Your City, e.g., "New York"]
+
+🛠 My primary tools and technologies:
+
+- [Technology or Language #1]
+- [Technology or Language #2]
+- [Technology or Language #3]
+
+🔍 I'm currently learning [What you're currently learning or wish to learn]
+
+📫 Reach out to me: [Your Email Address]
+
+🔗 Connect with me:
+
+- [LinkedIn](link_to_your_profile)
+- [Twitter](link_to_your_profile)
+- [Telegram](link_to_your_profile)
+
+---
+
+💼 Some of my projects:
+
+1. **[Project Name #1]** - brief description and [link to the project or repository]
+2. **[Project Name #2]** - brief description and [link to the project or repository]
+
+---
+
+📊 My recent GitHub activity:
+
+[Your GitHub stats, for example, using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)]
+
 
 
 
