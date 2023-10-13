@@ -47,10 +47,9 @@
 <p align="center"> 
   <strong>🛠 My primary tools and technologies:</strong><br>
   <img src="https://www.codewars.com/users/eleron96/badges/small" title="CODEWARS" alt="CODEWARS">
-  <a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="PYTHON" alt="PYTHON" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40">
-  </a>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="PYTHON" alt="PYTHON" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40">
 </p>
