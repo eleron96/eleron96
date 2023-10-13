@@ -1,16 +1,6 @@
-# Hello! I'm Niko Gamsakhurdiya
+<p align="center"># Hello! I'm Niko Gamsakhurdiya</p>
 
 👨‍💻 I work as a Head of BIM Department
-
-🛠 My primary tools and technologies:
-
-- [Technology or Language #1]
-- [Technology or Language #2]
-- [Technology or Language #3]
-
-🔍 I'm currently learning [What you're currently learning or wish to learn]
-
-📫 Reach out to me: [Your Email Address]
 
 🔗 Connect with me:
 
