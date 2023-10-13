@@ -14,9 +14,9 @@
 
 🔗 Connect with me:
 
-- [LinkedIn](link_to_your_profile)
-- [Twitter](link_to_your_profile)
-- [Telegram](link_to_your_profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gamsakhurdiya/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRhID0powzDpE4D2KuVKGHg)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NikoGamsakhurdiya)
 
 ---
 
@@ -34,8 +34,6 @@ BIM Management and Architectural Design Expert with decades of experience, I've 
 ---
 
 🛠 My primary tools and technologies:
-
----
 
 <div>  
   <img src="https://www.codewars.com/users/eleron96/badges/small" title="CODEWARS" alt="CODEWARS"/>&nbsp;
