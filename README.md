@@ -20,39 +20,23 @@
 
 ---
 
-💼 Some of my projects:
-
-1. **[Project Name #1]** - brief description and [link to the project or repository]
-2. **[Project Name #2]** - brief description and [link to the project or repository]
+💼 About me:
+BIM Management and Architectural Design Expert with decades of experience, I've led various residential and commercial projects, mastering BIM software like Autodesk Revit and Archicad. As a BIM advocate, I manage a YouTube channel, aiding global users in navigating BIM challenges, and actively contribute to online communities. An educator on SkillShare and Udemy, I nurture budding BIM enthusiasts. Beyond professional realms, my engagement with Python programming enhances my BIM managerial skills, providing a distinctive approach to architectural solutions.
 
 ---
 
 📊 My recent GitHub activity:
 
-[Your GitHub stats, for example, using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)]
-
-
-
-
-
-
-
-
-
-I'm a BIM professional with experience as Head of BIM Department. 
-Currently, I'm expanding my skillset by learning Python and seeking collaborations with individuals who program for Revit or Rhino. 
-I'm open to assistance in my Python journey and am always happy to talk about BIM. 
-
-Fun fact about me: My hobby has become my work!
-
-
-
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eleron96&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eleron96&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eleron96&theme=apprentice)
 
-             
+---
+
+🛠 My primary tools and technologies:
+
+---
+
 <div>  
   <img src="https://www.codewars.com/users/eleron96/badges/small" title="CODEWARS" alt="CODEWARS"/>&nbsp;
   
