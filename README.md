@@ -1,8 +1,6 @@
-# Hello! I'm [Niko Gamsakhurdiya]
+# Hello! I'm Niko Gamsakhurdiya
 
-👨‍💻 I work as a [Head of BIM Department]
-
-🌆 From [Your City, e.g., "New York"]
+👨‍💻 I work as a Head of BIM Department
 
 🛠 My primary tools and technologies:
 
