@@ -45,7 +45,7 @@
 <hr>
 
 <p align="center"> 
-  <strong>🛠 My primary tools and technologies:</strong>
+  <strong>🛠 My primary tools and technologies:</strong><br>
   
   <br>
   <img src="https://www.codewars.com/users/eleron96/badges/small" title="CODEWARS" alt="CODEWARS">
