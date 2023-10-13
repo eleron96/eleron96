@@ -34,12 +34,10 @@
 <hr>
 
 <p align="center">
-  <a>
     📊 My recent GitHub activity:<br>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eleron96&theme=apprentice" alt="GitHub Activity">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eleron96&theme=apprentice" alt="GitHub Languages">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eleron96&theme=apprentice" alt="GitHub Stats">
-  </a>  
 </p>
 
 <hr>
