@@ -25,8 +25,10 @@
 <hr>
 
 <p align="center"> 
-  <strong>💼 About me:</strong><br>
-  BIM Management and Architectural Design Expert with decades of experience, I've led various residential and commercial projects, mastering BIM software like Autodesk Revit and Archicad. As a BIM advocate, I manage a YouTube channel, aiding global users in navigating BIM challenges, and actively contribute to online communities. An educator on SkillShare and Udemy, I nurture budding BIM enthusiasts. Beyond professional realms, my engagement with Python programming enhances my BIM managerial skills, providing a distinctive approach to architectural solutions.
+    <div>
+      <strong>💼 About me:</strong><br>
+      BIM Management and Architectural Design Expert with decades of experience, I've led various residential and commercial projects, mastering BIM software like Autodesk Revit and Archicad. As a BIM advocate, I manage a YouTube channel, aiding global users in navigating BIM challenges, and actively contribute to online communities. An educator on SkillShare and Udemy, I nurture budding BIM enthusiasts. Beyond professional realms, my engagement with Python programming enhances my BIM managerial skills, providing a distinctive approach to architectural solutions.
+    </div>
 </p>
 
 <hr>
