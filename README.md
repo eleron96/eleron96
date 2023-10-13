@@ -5,12 +5,17 @@
 <p align="center"> 🔗 Connect with me: </p>
 
 <p align="center"> 
-  <div>
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gamsakhurdiya/)
-    [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRhID0powzDpE4D2KuVKGHg)
-    [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NikoGamsakhurdiya)
-  </div>
+  <a href="https://www.linkedin.com/in/gamsakhurdiya/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/channel/UCRhID0powzDpE4D2KuVKGHg">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://t.me/NikoGamsakhurdiya">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
 </p>
+
 ---
 
 💼 About me:
