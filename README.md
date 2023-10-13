@@ -25,21 +25,21 @@
 <hr>
 
 <p align="center"> 
-    <div>
+    <a>
       <strong>💼 About me:</strong><br>
       BIM Management and Architectural Design Expert with decades of experience, I've led various residential and commercial projects, mastering BIM software like Autodesk Revit and Archicad. As       a BIM advocate, I manage a YouTube channel, aiding global users in navigating BIM challenges, and actively contribute to online communities. An educator on SkillShare and Udemy, I nurture        budding BIM enthusiasts. Beyond professional realms, my engagement with Python programming enhances my BIM managerial skills, providing a distinctive approach to architectural solutions.
-    </div>
+    </a>
 </p>
 
 <hr>
 
 <p align="center">
-  <div>
+  <a>
     📊 My recent GitHub activity:<br>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eleron96&theme=apprentice" alt="GitHub Activity">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eleron96&theme=apprentice" alt="GitHub Languages">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eleron96&theme=apprentice" alt="GitHub Stats">
-  </div>  
+  </a>  
 </p>
 
 <hr>
